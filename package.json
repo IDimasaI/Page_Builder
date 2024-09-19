@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "php_build": "php commands/comands.php compile",
+        "Page_build": "php commands/comands.php Page_builder"
+    }
+}
